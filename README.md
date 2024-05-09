@@ -9,7 +9,7 @@ However, due to concept conflicts, the progression of the project got way too sl
 Hence, I decided to leave this project for now and concentrate on other projects first.
 
 What I worked at:
-Using cc0 images I found from one of the game development sites, I made the maps, character animation and other systems in this game.
+Using cc0 images I found from one of the game development sites, I made the maps, character animation and other systems in this game. However, I didnot draw/created any of the images used in this game.
 
 !the background music is a BGM from the game called "Ender Lilies"! I do not own any rights with the music.
 
