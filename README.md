@@ -1,7 +1,7 @@
 !!Due to large size of the project, could not push to github. Instead, Link(s) are below:
 
 demo Playing video:
-(will be added)
+https://www.youtube.com/watch?v=WuF4DPOqQtc&t=81s
 
 Explanation:
 I wanted to make a 2D platformer Horror game. So I tried to make some components, and was somewhat satisfied.
