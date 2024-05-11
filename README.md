@@ -13,13 +13,13 @@ Using cc0 images I found from one of the game development sites, I made the maps
 
 !the background music is a BGM from the game called "Ender Lilies"! I do not own any rights with the music.
 
-What I liked:
-- Making darp atmosphere and some bright lights using light objects
-- Monsters that Detects the sound of the player
+What I made and liked:
+- Making dark atmosphere and some bright lights using light objects
+- Monsters that detects the sound of the player
 - the sound area that player is making changes depends on the behaviour of player - when player runs, the sound circle has larger radius and when player does not move, the sound circle has much smaller radius
 - simple UI for stamina - line of below shows the current stamina of the player. When the player reaches 0 stamina, the player cannot run for a while.
 - basic map design
-    - I basically thought of making a horror game that player cannot resist against enemies, so was thinking of making player get damage whenever it collides with enemy objects. However, original problem I had with this map is that player cannot go around the enemy, which means there was no way to go through the enemy. Hence, after some research, I decided to make some more maps that have more than one bridges between each other, so even if player face an enemy from map A, player can proceed to the same direction by transpassing map B. 
+    - I basically thought of making a horror game that player cannot resist against enemies, so was thinking of making player get damage(or die) whenever it collides with enemy objects. However, original problem I had with this map is that player cannot go around the enemy, which means there was no way to go through the enemy. Hence, after some research, I decided to make some more maps that have more than one bridges between each other, so even if player face an enemy from map A, player can proceed to the same direction by transpassing map B. 
 -  Teleporter - player can go from map A to map B by interacting with this teleporter!
 -  Monster movement - added inertia to their movement, so if player cross the enemy by jumping, enemy cannot turn back right away.
 -  Hiding System - whenever player hides, the enemies cannot detect the player anymore. Visual Effect concept is from horror game called "Yomawari: Night Alone".
